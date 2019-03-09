@@ -1,0 +1,16 @@
+C:\Users\46749\Desktop\ChaseServer2\ChaseServer\bin\Release\ChaseServer.exe.config
+C:\Users\46749\Desktop\ChaseServer2\ChaseServer\bin\Release\ChaseServer.exe
+C:\Users\46749\Desktop\ChaseServer2\ChaseServer\bin\Release\ChaseServer.pdb
+C:\Users\46749\Desktop\ChaseServer2\ChaseServer\bin\Release\MySql.Data.dll
+C:\Users\46749\Desktop\ChaseServer2\ChaseServer\bin\Release\MySql.Data.xml
+C:\Users\46749\Desktop\ChaseServer2\ChaseServer\obj\Release\ChaseServer.exe
+C:\Users\46749\Desktop\ChaseServer2\ChaseServer\obj\Release\ChaseServer.pdb
+C:\Users\46749\Desktop\ChaseServer2\ChaseServer\obj\Release\ChaseServer.csprojResolveAssemblyReference.cache
+C:\Users\46749\Desktop\计网项目\服务器端工程文件\ChaseServer\bin\Release\ChaseServer.exe.config
+C:\Users\46749\Desktop\计网项目\服务器端工程文件\ChaseServer\obj\Release\ChaseServer.exe
+C:\Users\46749\Desktop\计网项目\服务器端工程文件\ChaseServer\obj\Release\ChaseServer.pdb
+C:\Users\46749\Desktop\计网项目\服务器端工程文件\ChaseServer\bin\Release\ChaseServer.exe
+C:\Users\46749\Desktop\计网项目\服务器端工程文件\ChaseServer\bin\Release\ChaseServer.pdb
+C:\Users\46749\Desktop\计网项目\服务器端工程文件\ChaseServer\bin\Release\MySql.Data.dll
+C:\Users\46749\Desktop\计网项目\服务器端工程文件\ChaseServer\bin\Release\MySql.Data.xml
+C:\Users\46749\Desktop\计网项目\服务器端工程文件\ChaseServer\obj\Release\ChaseServer.csprojResolveAssemblyReference.cache
